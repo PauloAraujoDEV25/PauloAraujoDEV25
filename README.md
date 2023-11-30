@@ -23,7 +23,7 @@ Eu aprecio a importância da comunicação transparente para evitar mal-entendid
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PauloAraujoDEV25)
 [![Instagram](https://img.shields.io/badge/-Instagram-gray?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/phdev25/)
 
-## Habilidades 
+## HardSkills
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 
