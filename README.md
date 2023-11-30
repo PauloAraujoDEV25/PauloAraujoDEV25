@@ -1,5 +1,16 @@
 # PauloAraujoDEV25
 
+## Sobre Mim
+Olá sou Paulo, tenho 25 anos seja bem vindo ao meu GitHub.
+um pouco mais sobre minhas softskills
+
+- 🌱 Aprendizado Contínuo
+- Acredito no poder do aprendizado contínuo e estou sempre explorando novas tecnologias e conceitos. 
+- 
+- 🤝 Colaboração
+- Estou aberto a colaborações e feedback construtivo. 
+
+
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-ara%C3%BAjo-12b93b260/)
