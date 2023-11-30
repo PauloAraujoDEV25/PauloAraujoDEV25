@@ -2,13 +2,19 @@
 
 ## Sobre Mim
 Olá sou Paulo, tenho 25 anos seja bem vindo ao meu GitHub.
-um pouco mais sobre minhas softskills
 
+## SoftSkills
 - 🌱 Aprendizado Contínuo
-- Acredito no poder do aprendizado contínuo e estou sempre explorando novas tecnologias e conceitos. 
-- 
+ Acredito no poder do aprendizado contínuo e estou sempre explorando novas tecnologias e conceitos. 
+
 - 🤝 Colaboração
-- Estou aberto a colaborações e feedback construtivo. 
+ Estou aberto a colaborações e feedback construtivo.
+
+- 🔄 Adaptabilidade
+ Em um campo dinâmico como a tecnologia, a adaptabilidade é uma habilidade essencial.
+
+-🎤 Comunicação Clara
+Eu aprecio a importância da comunicação transparente para evitar mal-entendidos e promover um ambiente de trabalho saudável.
 
 
 ## Conecte-se comigo
