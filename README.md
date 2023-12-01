@@ -18,11 +18,11 @@ Eu aprecio a importância da comunicação transparente para evitar mal-entendid
 
 
 ## Conecte-se comigo
-
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-ara%C3%BAjo-12b93b260/)
 [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PauloAraujoDEV25)
 [![Instagram](https://img.shields.io/badge/-Instagram-gray?style=for-the-badge&logo=instagram&logoColor=)](https://www.instagram.com/phdev25/)
-
+</div>
 ## HardSkills
 
 <div align="center">
