@@ -17,11 +17,13 @@ Olá sou Paulo, tenho 25 anos seja bem vindo ao meu GitHub.
 Eu aprecio a importância da comunicação transparente para evitar mal-entendidos e promover um ambiente de trabalho saudável.
 
 
-## Conecte-se comigo
+## Redes Sociais
+
 <div align="center">
   <a href="https://www.instagram.com/phdev25/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/paulo-henrique-ara%C3%BAjo-12b93b260/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 </div>
+
 ## HardSkills
 
 <div align="center">
