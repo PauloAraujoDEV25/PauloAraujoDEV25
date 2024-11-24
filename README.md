@@ -1,7 +1,7 @@
 # PauloAraujoDEV25
 
 ## Sobre Mim
-Olá sou Paulo, tenho 25 anos seja bem vindo ao meu GitHub.
+Olá sou Paulo, tenho 26 anos seja bem vindo ao meu GitHub.
 
 ## SoftSkills
 - 🌱 Aprendizado Contínuo ➡️
