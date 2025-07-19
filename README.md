@@ -16,13 +16,6 @@ Olá sou Paulo, tenho 26 anos e seja bem vindo ao meu GitHub.
 - 🎤 Comunicação Clara ➡️
 Eu aprecio a importância da comunicação transparente para evitar mal-entendidos e promover um ambiente de trabalho saudável.
 
-
-## Redes Sociais
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/paulo-henrique-ara%C3%BAjo-12b93b260/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-</div>
-
 ## HardSkills
 
 <div align="center">
@@ -30,6 +23,12 @@ Eu aprecio a importância da comunicação transparente para evitar mal-entendid
   <img src="https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
+## Redes Sociais
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/paulo-henrique-ara%C3%BAjo-12b93b260/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
 </div>
 
 
