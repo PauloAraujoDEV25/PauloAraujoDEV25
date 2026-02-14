@@ -69,11 +69,5 @@ Busco oportunidades para atuar como **Dev Júnior/Estagiário**, contribuindo em
 <!-- Streak -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=PauloAraujoDEV25&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
-<!-- Stats gerais -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloAraujoDEV25&show_icons=true&theme=tokyonight&hide_border=true)
-
-<!-- Top linguagens -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAraujoDEV25&layout=compact&theme=tokyonight&hide_border=true)
-
 <!-- Activity Graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PauloAraujoDEV25&theme=react-dark&hide_border=true&area=true)
