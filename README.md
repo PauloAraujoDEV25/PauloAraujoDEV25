@@ -1,4 +1,4 @@
-# Paulo Henrique Araújo 👨‍💻
+# Paulo Henrique Araujo 👨‍💻
 
 ### Desenvolvedor Back-end Java | Spring Boot | Web com HTML, CSS e JavaScript
 
