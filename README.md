@@ -66,21 +66,14 @@ Busco oportunidades para atuar como **Dev Júnior/Estagiário**, contribuindo em
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=PauloAraujoDEV25&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
-  <!-- Streak -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=PauloAraujoDEV25&theme=bear&background=000&border=30A3DC&dates=FFF" alt="GitHub Streak"/>
-  </a>
+<!-- Stats gerais -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloAraujoDEV25&show_icons=true&theme=tokyonight&hide_border=true)
 
-  <br/><br/>
+<!-- Top linguagens -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAraujoDEV25&layout=compact&theme=tokyonight&hide_border=true)
 
-  <!-- Stats gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloAraujoDEV25&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <br/><br/>
-
-  <!-- Top linguagens -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAraujoDEV25&layout=compact&theme=radical" alt="Top Langs" />
-
-</div>
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PauloAraujoDEV25&theme=react-dark&hide_border=true&area=true)
