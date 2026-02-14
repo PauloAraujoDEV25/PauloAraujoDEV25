@@ -1,43 +1,71 @@
-# PauloAraujoDEV25
+# Paulo Henrique Araújo 👨‍💻
 
-## Sobre Mim
-Olá sou Paulo, tenho 26 anos e seja bem vindo ao meu GitHub.
+### Desenvolvedor Back-end Java | Spring Boot | Web com HTML, CSS e JavaScript
 
-## SoftSkills
-- 🌱 Aprendizado Contínuo ➡️
- Acredito no poder do aprendizado contínuo e estou sempre explorando novas tecnologias e conceitos. 
+Sou desenvolvedor focado em **back-end com Java e Spring Boot**, construindo aplicações web com **HTML, CSS e JavaScript** no front-end.  
+Busco oportunidades para atuar como **Dev Júnior/Estagiário**, contribuindo em projetos reais enquanto evoluo tecnicamente.
 
-- 🤝 Colaboração ➡️
- Estou aberto a colaborações e feedback construtivo.
+- 📍 Brasil
+- 🎓 Focado em Java, Spring Boot e desenvolvimento web
+- 🚀 Aberto a vagas Júnior / Estágio / Trainee em desenvolvimento
 
-- 🔄 Adaptabilidade ➡️
- Em um campo dinâmico como a tecnologia, a adaptabilidade é uma habilidade essencial.
+---
 
-- 🎤 Comunicação Clara ➡️
-Eu aprecio a importância da comunicação transparente para evitar mal-entendidos e promover um ambiente de trabalho saudável.
+## 🔭 O que estou fazendo agora
 
-## HardSkills
+- Desenvolvendo uma aplicação web em **Java + Spring Boot (back-end)** com **HTML, CSS e JavaScript (front-end)**
+- Praticando **APIs REST**, camada de serviço e boas práticas de organização de código
+- Aperfeiçoando **responsividade** e **experiência do usuário** no front-end
 
+🔗 **Projeto em desenvolvimento:**  
+[https://web-production-f1a9.up.railway.app](https://web-production-f1a9.up.railway.app)
+
+---
+
+## 🧩 Soft Skills
+
+- 🌱 **Aprendizado Contínuo** – estou sempre estudando tecnologias e conceitos ligados a Java e desenvolvimento web.
+- 🤝 **Colaboração** – gosto de trabalhar em equipe, trocar conhecimento e receber feedbacks.
+- 🔄 **Adaptabilidade** – me adapto bem a novos desafios, demandas e ferramentas.
+- 🎤 **Comunicação Clara** – procuro ser objetivo e transparente para facilitar o trabalho em time.
+
+---
+
+## 🛠️ Hard Skills
+
+### Linguagens & Back-end
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+</div>
+
+### Front-end
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
+
+### Ferramentas
 <div align="center">
   <img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/MySQL-2D5D8A?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </div>
 
-## Redes Sociais
+---
+
+## 🌐 Redes Sociais
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/paulo-henrique-ara%C3%BAjo-12b93b260/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/paulo-henrique-ara%C3%BAjo-12b93b260/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+  </a>
 </div>
 
-## GitHub Stats
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloAraujoDEV25&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=black) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PauloAraujoDEV25&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PauloAraujoDEV25&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=black)
