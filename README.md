@@ -18,8 +18,8 @@ Busco oportunidades para atuar como **Dev Júnior/Estagiário**, contribuindo em
 - Trabalhando com **bancos de dados relacionais** (MySQL, Oracle SQL e PostgreSQL)  
 - Aperfeiçoando **responsividade** e **experiência do usuário** no front-end  
 
-🔗 **Projeto em desenvolvimento:**  
-[https://web-production-f1a9.up.railway.app](https://web-production-f1a9.up.railway.app)
+🔗 **Projeto em desenvolvidos:**  
+[https://landing-page-kelly.vercel.app/ , https://site-mk-tech.vercel.app/
 
 ---
 
