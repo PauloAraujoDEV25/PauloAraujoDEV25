@@ -19,7 +19,7 @@ Busco oportunidades para atuar como **Dev Júnior/Estagiário**, contribuindo em
 - Aperfeiçoando **responsividade** e **experiência do usuário** no front-end  
 
 🔗 **Projeto em desenvolvidos:**  
-[https://landing-page-kelly.vercel.app/ , https://site-mk-tech.vercel.app/
+[https://landing-page-kelly.vercel.app/ , https://site-mk-tech.vercel.app/]
 
 ---
 
